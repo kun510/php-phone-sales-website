@@ -1,0 +1,115 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.all-pay {
+    display: flex;
+    width: 100%;
+}
+
+.pay-left {
+    width: 40%;
+    margin-left: 50px;
+}
+
+.pay-right {
+    width: 50%;
+}
+
+.pay-left h1 {
+    text-align: left;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.nguoinhan {
+    margin-bottom: 20px;
+}
+
+.font-weight {
+    font-weight: bold;
+}
+
+.SDT-ND {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.SDT-kh {
+    padding-left: 10px;
+}
+
+.diachi {
+    margin-bottom: 10px;
+}
+
+.bodykhachhang {
+    margin-left: 50px;
+}
+
+select {
+    height: 50px;
+    width: 70%;
+    text-align: center;
+    font-size: 15px;
+}
+
+.xaphuong {
+    height: 50px;
+    width: 70%;
+    text-align: center;
+    font-size: 15px;
+}
+
+.ghichund {
+    width: 80%;
+    height: 150px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.pay-headsp {
+    display: flex;
+    /* border-bottom: 3px solid #eaeaee; */
+    margin-bottom: 10px;
+}
+
+.head-sp {
+    margin-bottom: 10px;
+    width: 70%;
+}
+
+.head-tamtinh {
+    margin-bottom: 10px;
+    width: 40%;
+    text-align: right;
+}
+
+.pay-ttsp {
+    display: flex;
+}
+
+.pay-tensp {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pay-slsp {
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.tien {
+    margin-left: 33%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.head-right {
+    border-bottom: 3px solid #eaeaee;
+    margin-bottom: 10px;
+}
